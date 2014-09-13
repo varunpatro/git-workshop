@@ -49,3 +49,4 @@ git add -p
 
 git reset --hard
 	Destroys the entire working directory so that it matches with the staging area. Therefore any changes that are not staged will be destroyed
+	
