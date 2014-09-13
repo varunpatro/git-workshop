@@ -44,3 +44,5 @@ git diff <old> <new>
 git diff 
 	Shows us what has changed between our working directory and staging area
 
+git add -p
+	Lets us selectively stage changes
