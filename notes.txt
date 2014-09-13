@@ -19,7 +19,7 @@ git init
 	Used to create a new Git repository
 
 git status
-	Tells us the status of our wokring directory
+	Tells us the status of our working directory
 	Compares the difference between working dir and staging area
 	Also compares the difference between staging area and repo
 
@@ -37,3 +37,10 @@ git log
 
 git log --oneline
 	Shows us all the commits in oneline
+
+git diff <old> <new>
+	Shows us what has changed between any 2 commits
+
+git diff 
+	Shows us what has changed between our working directory and staging area
+
