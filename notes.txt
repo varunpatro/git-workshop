@@ -79,3 +79,6 @@ git push [remote] [branch]
 
 git pull [remote] [branch]
 	Pulls commits on [remote] to our local [branch]
+
+git clone [url]
+	Clones git reposiroty from remote [url] to your local machine
