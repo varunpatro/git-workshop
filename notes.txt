@@ -20,6 +20,8 @@ git init
 
 git status
 	Tells us the status of our wokring directory
+	Compares the difference between working dir and staging area
+	Also compares the difference between staging area and repo
 
 .gitignore
 	Tells git that it should completely ignore a certain file
