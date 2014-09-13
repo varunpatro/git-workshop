@@ -50,5 +50,10 @@ git add -p
 git reset --hard
 	Destroys the entire working directory so that it matches with the staging area. Therefore any changes that are not staged will be destroyed
 	
+HEAD is a label for the commit we are currently at
+
 git checkout <branch/commit/etc>
-	switches to that branch or commit --> puts that into that working directory
+	switches to that branch/commit/etc --> puts that into that working directory
+
+git revert <commit>
+	Reverses that commit by making another opposite commit
